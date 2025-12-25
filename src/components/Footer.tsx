@@ -56,7 +56,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="font-serif text-lg font-semibold text-foreground">Find Us</h4>
             <a
-              href="https://www.google.com/maps/search/?api=1&query=Railway+Feeder+Rd+Kottar+Nagercoil+Tamil+Nadu+629002"
+              href="https://www.google.com/maps/search/?api=1&query=Balan+store+Kottar+Nagercoil+Tamil+Nadu+629002"
               target="_blank"
               rel="noopener noreferrer"
               className="block overflow-hidden rounded-lg border border-border bg-muted hover:border-primary transition-colors"

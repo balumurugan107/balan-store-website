@@ -27,7 +27,7 @@ const ContactSection = () => {
             </a>
 
             <a
-              href="https://www.google.com/maps/search/?api=1&query=Railway+Feeder+Rd+Kottar+Nagercoil+Tamil+Nadu+629002"
+              href="https://www.google.com/maps/search/?api=1&query=Balan_store+Kottar+Nagercoil+Tamil+Nadu+629002"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 rounded-xl bg-primary-foreground/10 px-6 py-4 text-primary-foreground transition-colors hover:bg-primary-foreground/20"
